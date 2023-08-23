@@ -1,0 +1,4 @@
+ valor logico das proposicoes simples
+ a =  T b =  F
+ valor logico da proposicao composta
+ S = ~((a ^ b) ^ ~(a v b)) =  F
